@@ -30,6 +30,9 @@ main {
 article {
     padding: var(--article-default-margin-padding);
 }
+h1{
+    visibility: hidden;
+}
 h2 {
     font-size: 2.5rem;
     margin-top: var(--default-margin-padding);
